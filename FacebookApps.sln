@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1D3DC7C1-4DDF-452F-923C-4A0364884952}"
+	ProjectSection(SolutionItems) = preProject
+		Exercise Checking Report.txt = Exercise Checking Report.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92392C69-AC0E-4657-9175-C20114C679FA}.Debug|x86.ActiveCfg = Debug|x86
+		{92392C69-AC0E-4657-9175-C20114C679FA}.Debug|x86.Build.0 = Debug|x86
+		{92392C69-AC0E-4657-9175-C20114C679FA}.Release|x86.ActiveCfg = Release|x86
+		{92392C69-AC0E-4657-9175-C20114C679FA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
